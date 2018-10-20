@@ -1,0 +1,11 @@
+Apply Operations To Groups In Pandas
+https://chrisalbon.com/python/data_wrangling/pandas_apply_operations_to_groups/
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+Analytics Vidhya:
+https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
+
+Pandas Tutorials:
+https://www.shanelynn.ie/category/tutorials/
+Also refer:
+http://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.DataFrame.groupby.html
+https://pandas.pydata.org/pandas-docs/stable/groupby.html
